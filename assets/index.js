@@ -1,5 +1,5 @@
-const phrase = "O Rato roeu A roupa do rei de roma";
-const vogals = 'aAeEiIoOuU';
+const phrase = "O Ratô roeu A roupa do rei de romã";
+const vogals = 'aAáÁâÂãÃeEéÉêÊiIíÍoOóÓôÔõÕuUúÚ';
 
 let count = 0;
 
